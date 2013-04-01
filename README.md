@@ -1,3 +1,9 @@
+# my fork
+
+I only use one of the commands from NERDcommenter, and am too dumb to figure out how to turn the others off in a sane way. 
+I do the insane thing and modify a fork of the repo. sorry.
+
+
 # Installation  
 
 _\*For simplicity, let's use **[VIM_ROOT]** which will mean ~/.vim (\*nix) or ~/vimfiles (Windows)_
